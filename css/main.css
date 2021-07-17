@@ -4,6 +4,7 @@
 *{
   scroll-behavior:smooth;
 }
+
 /* navbar dropdown */
 #nav-dropdowns{
     width:170px;
@@ -363,7 +364,7 @@ position: relative; }
 
   .card1{
      text-decoration: none;
-     width:45vw;
+     width:42vw;
      padding:4px;
      min-height:235px;
 /*      margin:8px; */
