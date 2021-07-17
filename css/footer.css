@@ -266,7 +266,7 @@ input {
 }
 
 .footer-image {
-width:100vw;
+width:98%;
 height:auto;
 background:#dddddd;
 object-fit: contain;
