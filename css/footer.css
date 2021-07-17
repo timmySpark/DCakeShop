@@ -258,16 +258,10 @@ input {
 }
 
 
-@media only screen and (min-width: 900px){
-.cake-footer-cards {
-margin-left: 4%;
-}
-}
-
 @media only screen and (max-width:480px){
 
  .image-style{
-  width:100vw;
+  width:40vw;
 }
 .footer-description {
   display:flex;
@@ -281,15 +275,22 @@ margin-left: 4%;
 }
 
 .footer-image {
-width:100vw;
-height:auto;
-background:#dddddd;
-object-fit: contain;
-}
+  width:100vw;
+  height:auto;
+  background:#dddddd;
+  object-fit: contain;
+  }
 .c-2019{
-  display: none;
+    display: none;
+  }
 }
+
+@media only screen and (min-width: 900px){
+.cake-footer-cards {
+  margin-left: 4%;
+  }
 }
+
 
 @media only screen and (max-width: 780px){
 
