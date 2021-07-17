@@ -393,10 +393,10 @@ div.card-details{
 
 .card1{
    text-decoration: none;
-   width:35vw;
+   width:32vw;
    height:60%;
    padding:4px;
-   min-height:235px;
+/*    min-height:235px; */
    margin:10px;
    border-radius:6px;
    border:4px solid #fff;
