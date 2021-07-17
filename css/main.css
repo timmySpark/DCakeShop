@@ -352,7 +352,7 @@ position: relative; }
         border: 8px;
       }
 
-    @media only screen and (min-width:480px){
+    @media only screen and (max-width:480px){
 
     #card-desc1 {
         padding: 0;
@@ -391,9 +391,9 @@ position: relative; }
 
       .card1{
          text-decoration: none;
-         width:35vw;
+         width:32vw;
          padding:4px;
-         min-height:225px;
+         min-height:235px;
          margin:10px;
          border-radius:6px;
          border:4px solid #fff;
