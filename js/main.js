@@ -13,10 +13,10 @@
 	fullHeight();
 
 	var carousel = function() {
-		$('.home-slider').owlCarousel({
+	   $('.home-slider').owlCarousel({
 	    loop:true,
 	    autoplay: true,
-			autoplaySpeed:7000,
+            autoplaySpeed:7000,
 	    margin:0,
 	    animateOut: 'fadeOut',
 	    animateIn: 'fadeIn',
@@ -96,14 +96,14 @@ window.addEventListener('DOMContentLoaded', event => {
     // Shrink the navbar when page is scrolled
     document.addEventListener('scroll', navbarShrink);
 
-		// Activate Bootstrap scrollspy on the main nav element
-	    // const mainNav = document.body.querySelector('#mainNav');
-	    // if (mainNav) {
-	    //     new bootstrap.ScrollSpy(document.body, {
-	    //         target: '#mainNav',
-	    //         offset: 74,
-	    //     });
-	    // };
+	    Activate Bootstrap scrollspy on the main nav element
+	    const mainNav = document.body.querySelector('#mainNav');
+	    if (mainNav) {
+	        new bootstrap.ScrollSpy(document.body, {
+	            target: '#mainNav',
+	            offset: 74,
+	        });
+	    };
 
     // Collapse responsive navbar when toggler is visible
     const navbarToggler = document.body.querySelector('.navbar-toggler');
