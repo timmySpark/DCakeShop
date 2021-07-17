@@ -10,7 +10,11 @@
 #dropdowns-item{
   margin: 0 auto;
   line-height:2;
-  background: black;
+  background: #292b2c;
+}
+a{
+  text-decoration:none;
+  cursor:pointer;  
 }
 
 .contact3 h1,
