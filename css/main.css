@@ -391,9 +391,9 @@ position: relative; }
 
       .card1{
          text-decoration: none;
-         width:32vw;
+         width:35vw;
          padding:4px;
-         min-height:235px;
+         min-height:225px;
          margin:10px;
          border-radius:6px;
          border:4px solid #fff;
