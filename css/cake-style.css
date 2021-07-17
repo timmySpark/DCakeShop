@@ -225,9 +225,29 @@ span{
     margin-top:25px;
     width:120px;
     height:40px;
+    opacity:0;
     color:white;
     background:black;
   }
+   .button-hover:hover{
+    font-weight: 900;
+    color: green;
+  }
+  .container-inner:hover h5{
+        display: none;
+  }
+  .container-inner:hover .button-hover{
+      opacity: 1;
+      transition: .5s ease;
+  }
+
+ .product-detail-wrapper{
+   font-size:20px;
+ }
+ span{
+   text-align: left;
+   font-size: 24px; 
+ }
    .product-detail-wrapper{
      font-size:20px;
   }
