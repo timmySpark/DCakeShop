@@ -4,7 +4,9 @@
 *{
   scroll-behavior:smooth;
 }
-/* navbar dropdown */
+
+
+/* navbar dropdown styling */
 #nav-dropdowns{
     width:170px;
     height:200px;
@@ -358,7 +360,7 @@ div.card-details{
     padding: 0;
 }
 .card-description{
-  width:70%;
+  width:80%;
   border-radius:8px;
  }
 .card1{
