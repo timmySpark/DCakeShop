@@ -1,4 +1,5 @@
-    /* footer styling */
+  
+/* footer styling */
 
 .footer-all-content {
  width:100vw;
@@ -8,7 +9,7 @@
    background-image: url('../assets/img/balloonnbkground-grey.png');
    height:560px;
    background-size: cover;
-   width:99%;
+   width:100%;
    object-fit:contain;
 }
 .footer-image-content {
@@ -261,7 +262,7 @@ input {
 @media only screen and (max-width:375px){
 
  .image-style{
-  width:60vw;
+  width:40vw;
 }
 
 .footer-image {
