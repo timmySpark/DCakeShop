@@ -13,8 +13,9 @@
   background: #292b2c;
 }
 a{
-  text-decoration:none;
-  cursor:pointer;  
+  color:black;
+  cursor:pointer; 
+  
 }
 
 .contact3 h1,
