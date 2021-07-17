@@ -221,25 +221,25 @@ span{
     font-weight: bold;
   }
   .button-hover{
+    color:white;
+    background:black;
     cursor:pointer;
+    font-weight:900;
+    font-family:Poppins;
     margin-top:25px;
     width:120px;
     height:40px;
     border-radius:7px;
     opacity:0;
-    color:white;
-    background:black;
+    
   }
-   .button-hover:hover{
-    font-weight: 900;
-    color: green;
-  }
+  
   .container-inner:hover h5{
         display: none;
   }
   .container-inner:hover .button-hover{
       opacity: 1;
-      transition: .5s ease;
+      transition: .5s ease-in-out;
   }
 
  .product-detail-wrapper{
