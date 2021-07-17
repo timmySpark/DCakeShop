@@ -118,6 +118,9 @@ header.masthead .masthead-heading {
     line-height:2;
     border:1px solid #ffc800;
 }
+ #logo{
+    font-family: 'Kaushan Script', cursive !important;
+}
 
 
 /* x- navbar stylings--x */
