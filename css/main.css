@@ -665,14 +665,15 @@ input {
     border-image: initial;
 }
 
+/* Media queries */
 @media only screen and (max-width:375px){
 
  .image-style{
-  width:60vw;
+  width:40vw;
 }
 
 .footer-image {
-width:100vw;
+width:100%;
 height:auto;
 background:#dddddd;
 object-fit: contain;
@@ -700,3 +701,4 @@ object-fit: contain;
   display: none;
 }
 }
+
