@@ -2,7 +2,7 @@
 /* footer styling */
 
 .footer-all-content {
- width:100vw;
+ width:97vw;
 }
 
 .footer-image {
@@ -266,7 +266,7 @@ input {
 }
 
 .footer-image {
-width:98%;
+width:100%;
 height:auto;
 background:#dddddd;
 object-fit: contain;
