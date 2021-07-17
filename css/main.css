@@ -360,12 +360,12 @@ div.card-details{
     padding: 0;
 }
 .card-description{
-  width:80%;
+  width:70%;
   border-radius:8px;
  }
 .card1{
    text-decoration: none;
-   width:20vw;
+   width:17vw;
    padding:4px;
    min-height:235px;
    margin:10px;
@@ -393,7 +393,7 @@ div.card-details{
 
 .card1{
    text-decoration: none;
-   width:32vw;
+   width:33vw;
    padding:4px;
    min-height:230px;
    margin:10px;
