@@ -44,7 +44,7 @@
 })(jQuery);
 
 // Automatic scroll
-/*
+
 AOS.init();
 
 AOS.init({
@@ -68,7 +68,7 @@ AOS.init({
   mirror: false,
   anchorPlacement: 'top-bottom',
 });
-*/
+
 
 // x automatic scroll
 
@@ -121,7 +121,7 @@ window.addEventListener('DOMContentLoaded', event => {
 
 });
 
-
+/*
 AOS.init();
 
 // You can also pass an optional settings object
@@ -148,4 +148,4 @@ AOS.init({
   anchorPlacement: 'top-bottom', // defines which position of the element regarding to window should trigger the animation
 
 });
-
+*/
