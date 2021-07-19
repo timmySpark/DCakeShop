@@ -44,7 +44,7 @@
 })(jQuery);
 
 // Automatic scroll
-
+/*
 AOS.init();
 
 AOS.init({
@@ -68,7 +68,7 @@ AOS.init({
   mirror: false,
   anchorPlacement: 'top-bottom',
 });
-
+*/
 
 // x automatic scroll
 
