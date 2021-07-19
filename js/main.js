@@ -43,34 +43,6 @@
 
 })(jQuery);
 
-// Automatic scroll
-
-AOS.init();
-
-AOS.init({
-  // Global settings:
-  disable: false,
-  startEvent: 'DOMContentLoaded',
-  initClassName: 'aos-init',
-  animatedClassName: 'aos-animate',
-  useClassNames: false,
-  disableMutationObserver: false,
-  debounceDelay: 50,
-  throttleDelay: 99,
-
-
-  // Settings that can be overridden on per-element basis, by `data-aos-*` attributes:
-  offset: 120,
-  delay: 1,
-  duration: 1000,
-  easing: 'ease',
-  once: false,
-  mirror: false,
-  anchorPlacement: 'top-bottom',
-});
-
-
-// x automatic scroll
 
 // Scripts
 //Navbar
@@ -121,7 +93,7 @@ window.addEventListener('DOMContentLoaded', event => {
 
 });
 
-/*
+
 AOS.init();
 
 // You can also pass an optional settings object
@@ -139,13 +111,13 @@ AOS.init({
 
 
   // Settings that can be overridden on per-element basis, by `data-aos-*` attributes:
-  offset: 120, // offset (in px) from the original trigger point
-  delay: 1, // values from 0 to 3000, with step 50ms
-  duration:1000, // values from 0 to 3000, with step 50ms
+  offset: 0, // offset (in px) from the original trigger point
+  delay: 2, // values from 0 to 3000, with step 50ms
+  duration:2000, // values from 0 to 3000, with step 50ms
   easing: 'ease', // default easing for AOS animations
   once: false, // whether animation should happen only once - while scrolling down
   mirror: false, // whether elements should animate out while scrolling past them
   anchorPlacement: 'top-bottom', // defines which position of the element regarding to window should trigger the animation
 
 });
-*/
+
