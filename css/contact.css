@@ -2,7 +2,7 @@
 
 .contact3 {
   font-family: "Montserrat", sans-serif;
-  color: #8d97ad;
+  background-color:#e4e4e4;
   font-weight: 300;
   margin-top: 80px;
 }
@@ -21,7 +21,7 @@ a{
 .contact3 h4,
 .contact3 h5,
 .contact3 h6 {
-  color:#fff;
+  color:#333;
 }
 
 .contact3 .font-weight-medium {
@@ -29,8 +29,8 @@ a{
 }
 
 .contact3 .card-shadow {
-  -webkit-box-shadow: 0px 0px 30px rgba(115, 128, 157, 0.1);
-  box-shadow: 0px 0px 30px rgba(115, 128, 157, 0.1);
+  -webkit-box-shadow: 0px 0px 30px #999;
+  box-shadow: 0px 0px 30px #999;
 }
 
 .contact3 .btn-danger-gradiant {
